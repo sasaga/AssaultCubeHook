@@ -2,7 +2,7 @@
 Filename:    assaultcubeHooking.js
 Description: This project hacks the AssaultCube game using frida and Hooking techniques
 Author:      Samir sanchez garnica @sasaga92
-command:     Frida "Name Process" -l assaultcubeHooking.js
+command:     Frida "Name Process" -l assaultcubeHooking.js 
 */
 
 
