@@ -3,7 +3,7 @@ Repository that contains the source code to modify the values of the AssaultCube
 
 
 ```
-python3 assaultcube.py
+python3 assaultcube.py 
 ```
 
 ![Alt text](gallery/function_software.png "Hook game")
